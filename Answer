@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T06:04:49.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="WjFpAZCKPUX9ET8CJEl5" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T13:57:26.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="wOdJQ6A5TM6AAZ-kCvax" version="15.8.6" type="github">
   <diagram id="dMPiWWmPaTnbKIO02nx4" name="Page-1">
     <mxGraphModel dx="946" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -43,6 +43,73 @@
         </mxCell>
         <mxCell id="Kjmk9XsmHhNkSkNXXT05-17" value="问题模版与Cypher语句映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="418" y="332" width="181" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-20" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="Kjmk9XsmHhNkSkNXXT05-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="373.12" y="706" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-21" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;朋友找我借钱，欠钱欠了很久没有归还怎么办？&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="258.12" y="585" width="229" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-22" value="&lt;font style=&quot;font-size: 14px&quot;&gt;与Question字段进行匹配&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="206" y="662" width="164" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-24" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;可起诉追回&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="267.63" y="906" width="210" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-29" value="相似度计算排序，返回最匹配的Question所对应的答案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="371" y="858" width="346" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-36" value="    与之匹配的Question候选集" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="202" y="711" width="343" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-37" value="1.朋友欠钱不还，请问可以采取什么途径要回" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;sketch=0;fontColor=#1D3557;fontSize=16;" vertex="1" parent="Kjmk9XsmHhNkSkNXXT05-36">
+          <mxGeometry y="30" width="343" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-38" value="2.欠钱人不认帐，不知道该怎么办" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;sketch=0;fontColor=#1D3557;fontSize=16;" vertex="1" parent="Kjmk9XsmHhNkSkNXXT05-36">
+          <mxGeometry y="60" width="343" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-39" value="..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;sketch=0;fontColor=#1D3557;fontSize=16;" vertex="1" parent="Kjmk9XsmHhNkSkNXXT05-36">
+          <mxGeometry y="90" width="343" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-42" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=#F1FAEE;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="373.5099999999999" y="906" as="targetPoint" />
+            <mxPoint x="373.0099999999999" y="832" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="373.5" y="869" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-47" value="答案" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;rounded=0;sketch=0;fontSize=16;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="574" y="713" width="193" height="121.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontSize=16;fontColor=#1D3557;strokeColor=#457B9D;" vertex="1" parent="Kjmk9XsmHhNkSkNXXT05-47">
+          <mxGeometry y="30" width="193" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-52" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;rounded=0;sketch=0;fontSize=16;fontColor=#1D3557;strokeColor=#457B9D;" vertex="1" parent="Kjmk9XsmHhNkSkNXXT05-51">
+          <mxGeometry width="43" height="35" as="geometry">
+            <mxRectangle width="43" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-53" value="可起诉追回" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;rounded=0;sketch=0;fontSize=16;fontColor=#1D3557;strokeColor=#457B9D;" vertex="1" parent="Kjmk9XsmHhNkSkNXXT05-51">
+          <mxGeometry x="43" width="150" height="35" as="geometry">
+            <mxRectangle width="150" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-54" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontSize=16;fontColor=#1D3557;strokeColor=#457B9D;" vertex="1" parent="Kjmk9XsmHhNkSkNXXT05-47">
+          <mxGeometry y="65" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-55" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;rounded=0;sketch=0;fontSize=16;fontColor=#1D3557;strokeColor=#457B9D;" vertex="1" parent="Kjmk9XsmHhNkSkNXXT05-54">
+          <mxGeometry width="43" height="30" as="geometry">
+            <mxRectangle width="43" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-56" value="搜集证据及时维权" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;rounded=0;sketch=0;fontSize=16;fontColor=#1D3557;strokeColor=#457B9D;" vertex="1" parent="Kjmk9XsmHhNkSkNXXT05-54">
+          <mxGeometry x="43" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
