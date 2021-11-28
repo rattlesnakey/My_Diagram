@@ -1,1 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T13:52:29.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="15.8.6" etag="mY7BhEWrfWcfNegt5Uaz" type="github"><diagram id="dMPiWWmPaTnbKIO02nx4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-28T06:04:49.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="WjFpAZCKPUX9ET8CJEl5" version="15.8.6" type="github">
+  <diagram id="dMPiWWmPaTnbKIO02nx4" name="Page-1">
+    <mxGraphModel dx="946" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-3" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="Kjmk9XsmHhNkSkNXXT05-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397" y="174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-2" value="&lt;span style=&quot;font-size: 16px ; text-align: left&quot;&gt;背叛国家罪属于什么罪类呢？&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="282" y="53" width="229" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;抽象&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="402" y="127" width="38" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-13" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="Kjmk9XsmHhNkSkNXXT05-6" target="Kjmk9XsmHhNkSkNXXT05-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-6" value="&lt;span style=&quot;font-size: 16px ; text-align: left&quot;&gt;nm 属于什么罪类呢？&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="291" y="178" width="210" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-8" value="    罪名、罪类与符号的映射" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=0;fontSize=14;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="528" y="122" width="170" height="60" as="geometry">
+            <mxRectangle x="528" y="122" width="181" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-9" value="nm : 背叛国家罪 " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;sketch=0;fontSize=14;fontColor=#1D3557;" vertex="1" parent="Kjmk9XsmHhNkSkNXXT05-8">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-16" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="Kjmk9XsmHhNkSkNXXT05-12" target="Kjmk9XsmHhNkSkNXXT05-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-12" value="&lt;span style=&quot;font-size: 16px ; text-align: left&quot;&gt;罪名所属的罪类&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="291" y="281" width="210" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-14" value="判断抽象问题所属问题模版类别" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="400" y="238" width="206" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-15" value="&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;MATCH(n:罪名)-[:属于]-&amp;gt;(m:罪类) WHERE n.name=&#39;{nm}&#39; RETURN m.name&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="238.88" y="380" width="315.25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjmk9XsmHhNkSkNXXT05-17" value="问题模版与Cypher语句映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="418" y="332" width="181" height="21" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
