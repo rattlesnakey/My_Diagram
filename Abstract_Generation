@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T14:42:14.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="eY34edd1T1J3gYGaHRsY" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-26T14:30:46.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RqM2IgnKqEY044LL4JWe" version="15.9.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="2118" dy="619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2664" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,11 +43,11 @@
         <mxCell id="iuFWR7W8brtJEeBuM7HK-24" value="&lt;span style=&quot;font-size: 24px&quot;&gt;TextRank&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1033" y="623" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iuFWR7W8brtJEeBuM7HK-25" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Ground Truth&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="368" y="345" width="151" height="20" as="geometry" />
+        <mxCell id="iuFWR7W8brtJEeBuM7HK-25" value="&lt;span style=&quot;font-size: 24px&quot;&gt;司法摘要 Ground Truth&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="265" y="340" width="254" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iuFWR7W8brtJEeBuM7HK-26" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Document&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-242" y="188" width="119" height="20" as="geometry" />
+        <mxCell id="iuFWR7W8brtJEeBuM7HK-26" value="&lt;span style=&quot;font-size: 24px&quot;&gt;司法文章&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="-235" y="188" width="106" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iuFWR7W8brtJEeBuM7HK-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=24;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -99,6 +99,18 @@
             <mxPoint x="113" y="1611" as="sourcePoint" />
             <mxPoint x="176.5" y="1672" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OyY7PkY8FMEMqsCEYAhE-3" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: 0px ; margin: 0cm 0cm 0cm 18pt&quot;&gt;&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;a name=&quot;OLE_LINK110&quot;&gt;&lt;/a&gt;原告因侵权责任纠纷起诉被告尹德乐、第三人，敦化市黄泥河镇新开道村村民委员会，请求被告将原告耕地恢复原状并赔偿经济损失1万元。经审理查明，原告诉请中的0.038公顷道南地据村里档案记载，已经退耕还林。由于无法证实现有四至的存在，亦无法推断出被告房屋侵占该地&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-36" y="663" width="546" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY7PkY8FMEMqsCEYAhE-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OyY7PkY8FMEMqsCEYAhE-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236" y="504" as="sourcePoint" />
+            <mxPoint x="326" y="757.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyY7PkY8FMEMqsCEYAhE-5" value="&lt;font style=&quot;font-size: 24px&quot;&gt;CPT&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="448" y="636" width="58" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
